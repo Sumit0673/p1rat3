@@ -1,0 +1,3 @@
+Total Unique Subdomain Found:  0
+URL Checked: 0
+Target is not vulnerable!!!
